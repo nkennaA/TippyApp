@@ -194,6 +194,9 @@
 		0A7BE44D20E2D56600262D4D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					label,
+				);
 				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = "Nkenna Aniedobe";
 				TargetAttributes = {
